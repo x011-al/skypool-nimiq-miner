@@ -1,14 +1,12 @@
 const config =
 {
-  "address": "NQ48 8CKH BA24 2VR3 N249 N8MN J5XX 74DB 5XJ8",
+  "address": "NQ86 QMAB BX59 VTA3 SRJK R8KR XUAG G48J 47LN",
   "name": "*",
   "thread": 0,
-  "percent": 100,
+  "percent": 70,
   "cpu": "auto",
   "server": [
-    "ws://hk0.nimiq.skypool.org:4000",
-    "ws://hk1.nimiq.skypool.org:4000",
-    "ws://sh0.nimiq.skypool.org:4000",
+    "ws://nikmir-28973.portmap.host:28973",
   ]
 }
 module.exports = config;
